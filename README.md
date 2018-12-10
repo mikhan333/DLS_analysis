@@ -1,4 +1,4 @@
-# DLS_analysis
+# DLS Analysis
 ### Course in Computational Mathematics at MIPT 5 semester. 
 
 ### Project Content:
